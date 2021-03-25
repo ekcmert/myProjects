@@ -1,0 +1,1 @@
+These are some of my homeworks and projects in Sabancý University's CS courses. It contains c++ data structure programs and a data science project which practises EDA and machine learing methods in Pyhton.

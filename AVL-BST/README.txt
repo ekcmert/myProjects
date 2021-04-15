@@ -1,0 +1,3 @@
+In VS 2012 and 2013, the high_resolution_clock is based on system time which has a resolution of 1 ms. In VS 2015, high_resolution_clock has been properly updated to use QueryPerformanceCounter so it has the expected high resolution.
+
+The code works properly and all the data structures are built correctly. If you want to measure the speed difference between AVL and BST trees, I suggest you to change all /1000.0's to /100.0 or a smaller divisor. Thank you :)

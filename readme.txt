@@ -1,1 +1,1 @@
-These are some of my homeworks and projects in Sabanci University's CS courses. It contains c++ data structure programs and a data science project which practises EDA and machine learning methods in Pyhton.
+These are some of my homeworks and projects from Sabanci University and Vrije Universiteit Amsterdam's CS courses. It contains c++ data structure programs and algorithms, a data science project which practises EDA and machine learning methods in Pyhton, fully functional Linux based shell.
